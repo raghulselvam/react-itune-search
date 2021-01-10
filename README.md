@@ -5,14 +5,14 @@ This is demo application, using iTunes free search API. Technologies used HTML5,
 
 ## Demo 
 
-You can check out live demo here https://anjum121.github.io/react-itune-search/ 
+You can check out live demo here https://raghulselvam.github.io/react-itune-search/ 
 
 ## Prerequisite 
 
 You should have latest node installed in your computer.
 
 ``` javascript 
- git clone https://github.com/anjum121/react-itune-search.git
+ git clone https://github.com/raghulselvam/react-itune-search.git
 ````
 
 
