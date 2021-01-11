@@ -3,16 +3,13 @@
 
 This is demo application, using iTunes free search API. Technologies used HTML5, react.js,  redux, CSS3
 
-## Demo 
-
-You can check out live demo here https://raghulselvam.github.io/react-itune-search/ 
 
 ## Prerequisite 
 
 You should have latest node installed in your computer.
 
 ``` javascript 
- git clone https://github.com/raghulselvam/react-itune-search.git
+ git  https://github.com/raghulselvam/react-itune-search.git
 ````
 
 
@@ -30,30 +27,6 @@ open terminal inside project folder and cd to ```./``` folder then run ```npm st
 ### Base configuration for styles
 
 if you want to do scss/css changes, you need to run npm ```npm run build-css``` or ```npm run watch-css``` to watch your style chagnes 
-
-
-### Screen shots
-
-  
-   ![alt text][one]
-   
-   [one]: screenshots/001.png "One"
-   
-   
-     
-   ![alt text][two]
-   
-   [two]: screenshots/002.png "Two"
-
-   ![alt text][three]
-   
-   [three]: screenshots/003.png "Three"
-
-   ![alt text][four]
-
-   [four]: screenshots/004.png "Four"
-
-  
 
 
 
